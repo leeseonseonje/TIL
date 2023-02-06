@@ -300,6 +300,7 @@ InnoDB 엔진에서 데이터를 찾는 과정
 
 - ___innodb_change_buffering___ 작업의 종류별로 활성화 가능
 ```
+
 - all: 모든 인덱스 작업(inserts, deletes, purges)을 버퍼링
 
 - none: 비활성화
