@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31eceeb9-6291-4dc0-b3f3-32049338374a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/til.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mysql/innoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/db/mysql/innoDB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mysql/트랜잭션과 잠금.md" beforeDir="false" afterPath="$PROJECT_DIR$/db/mysql/트랜잭션과 잠금.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675783772619</updated>
       <workItem from="1675783774242" duration="51000" />
+      <workItem from="1675862274733" duration="16000" />
     </task>
     <servers />
   </component>
